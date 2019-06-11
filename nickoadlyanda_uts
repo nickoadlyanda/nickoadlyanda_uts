@@ -1,7 +1,3 @@
-import java.util.Scanner;
-public class nickoadlyanda_uts {
-	public static void main (String[] hady) {
-		Scanner in = new Scanner(System.in);
 			String nama, nim;
 			int jurusan;
 				System.out.print("Masukan Nama:");
